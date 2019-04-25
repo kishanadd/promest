@@ -85,4 +85,5 @@ View all StatefulSets in the cluster:
 kubectl get statefulsets
 Describe the StatefulSets:
 
+
 kubectl describe statefulsets
